@@ -14,7 +14,7 @@ Tecnologias utilizadas nesse projeto:
 
 ## 💻 O Projeto
 
-Esse projeto foi um desafio proposto no módulo 01 da formação Ignite da Rocketseat. Consolidando os conceitos aprendidos como components, estado e propriedades do React.
+Esse projeto foi um desafio proposto no módulo 01 da formação Ignite da Rocketseat. Consolidando os conceitos aprendidos como componentes, estado e propriedades do React.
 
 
 ## 🔧 Como rodar
@@ -33,7 +33,7 @@ git clone https://github.com/arissonlima/ignite-todolist.git
 ### 📥 Instale as dependências
 ```bash
 # Acesse o diretório do projeto
-cd ignite-feed
+cd ignite-todolist
 
 # Instale as dependências
 yarn
